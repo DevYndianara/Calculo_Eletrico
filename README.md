@@ -9,4 +9,6 @@
 - Pandas openpyxl reportlab
 - Atualizar o pip
 
+### Versão:
+Python 3.13.5
   
